@@ -12,7 +12,7 @@ The dataset used in this project is sourced from Kaggle, containing YouTube Tren
 
 ## Data Architecture
 
-![Architecture Diagram](architecture_diagram.png)
+![Architecture Diagram](images/architecture_diagram.png)
 
 - Data ingestion: Upload data to AWS S3 via Windows CLI (PowerShell).
 - Data cataloging: Utilize AWS Glue Crawlers to build metadata and AWS Glue Catalog for schema management.
