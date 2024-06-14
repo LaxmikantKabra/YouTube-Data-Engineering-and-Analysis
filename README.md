@@ -32,6 +32,8 @@ The dataset used in this project is sourced from Kaggle, containing YouTube Tren
 
 The project successfully reduced data processing time by 40%, optimized storage costs by 40%, and improved qThe project culminated in leveraging advanced AWS cloud technologies to streamline data processing and visualization workflows for the YouTube trending dataset. By implementing robust ETL pipelines and seamless integration with Tableau, the project enabled stakeholders to derive actionable insights swiftly and effectively from complex data structures. The optimized data handling and visualization capabilities significantly enhanced decision-making processes and facilitated deeper understanding of YouTube trends and audience preferences.
 
+![Sample Tableau Dashboard image](images/sample_tableau_image.png)
+
 ## Links
 
 - <a href="https://public.tableau.com/views/YouTubeDataAnalysis_17183199750300/ViewsxQuarter?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target="_blank">Tableau Public Dashboard</a>
