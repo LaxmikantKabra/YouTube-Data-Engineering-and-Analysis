@@ -34,5 +34,6 @@ The project successfully reduced data processing time by 40%, optimized storage 
 
 ## Links
 
-- [Tableau Public Dashboard](https://public.tableau.com/views/YouTubeDataAnalysis_17183199750300/ViewsxQuarter?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-- [Dataset Version Used (1346)](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset)
+- <a href="https://public.tableau.com/views/YouTubeDataAnalysis_17183199750300/ViewsxQuarter?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target="_blank">Tableau Public Dashboard</a>
+- <a href="https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset" target="_blank">Dataset Version Used (1346)</a>
+
