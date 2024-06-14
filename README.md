@@ -1,5 +1,7 @@
 # Advanced YouTube Trending Data Analysis with AWS and Tableau
 
+### <a href="https://public.tableau.com/views/YouTubeDataAnalysis_17183199750300/ViewsxQuarter?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target="_blank">Tableau Public Dashboard Link</a>
+
 This project implements a comprehensive data pipeline on AWS for analyzing the YouTube trending dataset. It leverages AWS services such as S3, Glue, Lambda, Athena, and IAM to process, transform, and visualize the data using Tableau.
 
 ## Aim of the Project
