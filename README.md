@@ -4,7 +4,7 @@
 
 This project implements a comprehensive data pipeline on AWS for analyzing the YouTube trending dataset. It leverages AWS services such as S3, Glue, Lambda, Athena, and IAM to process, transform, and visualize the data using Tableau.
 
-## Aim of the Project
+## Overview
 
 The project aims to utilize cloud-based technologies to handle and analyze a large-scale YouTube trending dataset, enabling efficient data processing, transformation, and visualization for insights and decision-making.
 
